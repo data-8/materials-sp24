@@ -1,3 +1,3 @@
 # Homework Folder
 
-This folder will contain all of the student materials for the Homeworks for the Fall 2023 offering of Data 8.
+This folder will contain all of the student materials for the Homeworks for the Spring 2024 offering of Data 8.
