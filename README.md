@@ -14,8 +14,8 @@ The contents of this repository are licensed for reuse under [Creative Commons A
 
 
 Lab Links:
-<!-- - [Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab01%2Flab01.ipynb)
-- [Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab02%2Flab02.ipynb)
+- [Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab01%2Flab01.ipynb)
+<!-- - [Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab02%2Flab02.ipynb)
 - [Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab03%2Flab03.ipynb)
 - [Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab04%2Flab04.ipynb)
 - [Lab 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab05%2Flab05.ipynb)
@@ -23,7 +23,7 @@ Lab Links:
 - [Lab 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab07%2Flab07.ipynb)
 - [Lab 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab08%2Flab08.ipynb)
 - [Lab 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab09%2Flab09.ipynb)
-- [Lab 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab10%2Flab10.ipynb) -->
+- [Lab 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab10%2Flab10.ipynb) --> -->
 
 Homework Links:
 <!-- - [HW 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw01%2Fhw01.ipynb)
@@ -37,7 +37,7 @@ Homework Links:
 - [HW 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw09%2Fhw09.ipynb)
 - [HW 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw10%2Fhw10.ipynb)
 - [HW 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw11%2Fhw11.ipynb)
-- [HW 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw12%2Fhw12.ipynb) -->
+- [HW 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw12%2Fhw12.ipynb)
 
 Project Links:
 <!-- - [Project 1](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fproject%2Fproject1%2Fproject1.ipynb)
